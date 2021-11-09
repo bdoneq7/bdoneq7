@@ -1,17 +1,11 @@
-# Greetings Fellow Web Developers!
+# Greetings Fellow Web Developers! 	
 
 My name is Brian Done and I'm a Full Stack Web Developer coding student at the University of Central Florida.<br/> You can also find me on <a href="https://www.linkedin.com/in/brian-done-9080b026/">Linkedin.</a>
 
-## &#x270d; Interests and Hobbies
+## Interests and Hobbies
 
 - RPG Games
 - Astronomy
-
-## 🔧 Technologies 
-- HTML5
-- CSS3
-- Javascript
-- Responsive Design
 
 ## &#x1f4c8; GitHub Stats
 
