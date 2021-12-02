@@ -4,8 +4,10 @@ My name is Brian Done and I'm a Full Stack Web Developer coding student at the U
 
 ## Interests and Hobbies
 
+- Full Stack Web Development
 - RPG Games
 - Astronomy
+- History
 
 ## &#x1f4c8; GitHub Stats
 
