@@ -13,6 +13,7 @@ You can also Email me at: briguy2078@gmail.com
 - RPG Games
 - Astronomy
 - History
+- Archaeology
 
 ## &#x1f4c8; GitHub Stats
 
