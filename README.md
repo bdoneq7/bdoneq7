@@ -1,6 +1,6 @@
 # Greetings Fellow Web Developers! 	
 
-My name is Brian Done and I am a Full Stack Web Developer coding student at the University of Central Florida.<br/><br/>
+My name is Brian Done and I am a Full Stack Web Developer<br/><br/>
 You can find me on <a href="https://www.linkedin.com/in/brian-done-9080b026/">Linkedin</a> and <a href="https://twitter.com/BrianDoneCoder">Twitter</a>.
 
 Please review my coding projects on <a href="https://bdoneq7.github.io/portfolio/">My Portfolio</a>.
