@@ -5,7 +5,7 @@ I love to use my creative passion to develop Full Stack Web Applications to brin
 <br/>
 You can find me on <a href="https://www.linkedin.com/in/brian-done-9080b026/">Linkedin</a> and <a href="https://twitter.com/BrianDoneCoder">Twitter</a>.
 
-Please review my coding projects on <a href="https://bdoneq7.github.io/portfolio/">My Portfolio</a>.
+Please review my coding projects on <a href="https://bdoneq7.github.io/brian-react-portfolio/">My Portfolio</a>.
 
 You can also Email me at: briguy2078@gmail.com
 
