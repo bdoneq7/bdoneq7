@@ -1,6 +1,6 @@
 # Greetings Fellow Web Developers! 	
 
-My name is Brian Done and I am a Full Stack MERN Web Developer.<br/>
+My name is Brian Done and I am a Full Stack MERN Web Developer.<br/><br/>
 I want to use my creative passion for developing Full Stack Web Applications to bring value to the Web Development Community and collaborate with other developers to enhance the world with better applications.<br/>
 <br/>
 You can find me on <a href="https://www.linkedin.com/in/brian-done-9080b026/">Linkedin</a> and <a href="https://twitter.com/BrianDoneCoder">Twitter</a>.
